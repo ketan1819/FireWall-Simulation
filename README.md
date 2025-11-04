@@ -1,4 +1,4 @@
-Enhanced Firewall Simulation System - Major Project Documentation
+Enhanced Firewall Simulation System - Mini Project Documentation
 
 # Enhanced Firewall Simulation System
 
