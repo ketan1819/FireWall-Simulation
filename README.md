@@ -222,7 +222,7 @@ This project demonstrates firewall packet filtering with a dynamic GUI interface
 ## Author
 
 - **Name:** Ketan Sonawane  
-- **Project Type:** Major Project / Simulation  
+- **Project Type:**  Simulation  
 - **Technology Stack:** Java, JavaFX
 
 
